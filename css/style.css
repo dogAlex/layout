@@ -65,7 +65,7 @@ body {
 }
 
 .top__inner {
-    background-image: url(img/Image.png);
+    background-image: url(../img/#);
     background-repeat: no-repeat;
     background-position: bottom right;
     padding: 130px 0px 80px;
@@ -110,7 +110,7 @@ body {
 .top__link::before {
     position: absolute;
     content: "";
-    background-image: url(img/play-icon.svg);
+    background-image: url(../img/play.svg);
     width: 17px;
     height: 19px;
     left: 0;
@@ -172,7 +172,7 @@ body {
 
 .tools__inner {
     padding-bottom: 90px;
-    background-image: url(img/Bg.svg);
+    background-image: url(../img/bg.svg);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;

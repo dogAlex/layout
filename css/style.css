@@ -172,7 +172,7 @@ body {
 
 .tools__inner {
     padding-bottom: 90px;
-    background-image: url(../img/bg.svg);
+    background-image: url(../img/#);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
